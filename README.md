@@ -1,2 +1,1 @@
-# Trex-Runner
-was made by a Ten ager
+# Trex-Etapa-0
